@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package exercicio.poo;
-
-/**
- *
- * @author felipe.lima6_uscsonl
- */
 
 public class Pessoa {
     private String nome;
@@ -26,5 +16,3 @@ public class Pessoa {
         System.out.println("idade: " + idade);
     }
 }
-
-
